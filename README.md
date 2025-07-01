@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/moeloubani-libvips-mcp-badge.png)](https://mseep.ai/app/moeloubani-libvips-mcp)
+
 # 🎨 Libvips MCP Server Enhanced Edition (v1.2.0)
 
 [![smithery badge](https://smithery.ai/badge/@moeloubani/libvips-mcp)](https://smithery.ai/server/@moeloubani/libvips-mcp)
